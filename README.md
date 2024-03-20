@@ -11,18 +11,19 @@ The minimum information principle is the guiding principle in any hypothesis sel
 
 The proof is presented in two different forms in the next sections.
 ## Proof version 1 (longer more formal):
-Assumptions/Axioms.
-1) The Ockham razor states that given several models that fit a given data, the simplest one should be used. Expressing this as the minimum information principle means that the model that has minimal information and hence takes minimal information to describe or transmit should be used. 
-Proof/Argument:
-2) Let's define a set of all possible universes that can possibly exists. 
-3) We take p is the fraction of universes that exists in the set of all possible universes. Each hypothesis must give a single value of p directly derived from the hypothesis.
-4) Hence, p is the minimum amount of information any hypothesis must hold.
-5) For a hypothesis with  p=0 or p=1, the hypothesis is fully defined by the value of p.Hence, it's possible to determine that every universe  in the set exists based on the value of p alone.
-6) However, for other values p the hypothesis must contain additional information to decide whether a given universe  exists.
-7) Hence hypotheses with p=0 and p=1 have minimum information.
-8) p=0 means no universe exists. Since  we know our universe exists this option is inconsistent with the facts.
-9)p=1 means all possible universes exist and it's consistent with the fact this universe exists(P>0).
-10) Hence, according to the Ockham razor (expressed as minimum information principle) any universe that can exist does exist.
+### Assumptions/Axioms.
+1) The Ockham razor states that given several models that fit a given data, the simplest one should be used. Expressing this as the minimum information principle means that the model that has minimal information and hence takes minimal information to describe or transmit should be used.
+
+### Proof/Argument:
+1) Let's define a set of all possible universes that can possibly exists. 
+2) We take p is the fraction of universes that exists in the set of all possible universes. Each hypothesis must give a single value of p directly derived from the hypothesis.
+3) Hence, p is the minimum amount of information any hypothesis must hold.
+4) For a hypothesis with  p=0 or p=1, the hypothesis is fully defined by the value of p.Hence, it's possible to determine that every universe  in the set exists based on the value of p alone.
+5) However, for other values p the hypothesis must contain additional information to decide whether a given universe  exists.
+6) Hence hypotheses with p=0 and p=1 have minimum information.
+7) p=0 means no universe exists. Since  we know our universe exists this option is inconsistent with the facts.
+8)p=1 means all possible universes exist and it's consistent with the fact this universe exists(P>0).
+9) Hence, according to the Ockham razor (expressed as minimum information principle) any universe that can exist does exist.
 Where the set of universes that can exist might be defined as the set of programs that can run on an infinite universal Turing machine 
 
 
@@ -33,16 +34,16 @@ Where the set of universes that can exist might be defined as the set of program
 
 ## Proof version 2 (shorter less formal):
 
-Assumptions/Axioms:
+### Assumptions/Axioms:
 The Ockham razor, which states that given several hypotheses that fit a given data, the simplest one should be used. Expressing this as the minimum information principle means that the hypothesis that has the minimal information should be used (In this case we will refer to information as entropy).
+### Proof
+1) We create a set of all possible universes that can exist.
+2) Let's take p as the fraction of all universes  in the set that  exists according to a given hypothesis.
+3) The entropy from this hypothesis  is S=-p*log(p)-(1-p)*log(1-p).
+4) Now, this entropy is at a minimum at one of two states: p=0 and p=1.
+5) p=0 means no universe exists. Since this universe exists, this option is not valid.
+6) p=1 means all possible universes exist.
 
-We create a set of all possible universes that can exist.
-Let's take p as the fraction of all universes  in the set that  exists according to a given hypothesis.
-The entropy from this hypothesis  is S=-p*log(p)-(1-p)*log(1-p).
-Now, this entropy is at a minimum at one of two states: p=0 and p=1.
-p=0 means no universe exists. Since this universe exists, this option is not valid.
-p=1 means all possible universes exist.
-
-Hence, the Ockham razor (expressed as the minimum information principle) leads to the idea that all possible universes that can exist do  exist.
+7) Hence, the Ockham razor (expressed as the minimum information principle) leads to the idea that all possible universes that can exist do  exist.
 
 
